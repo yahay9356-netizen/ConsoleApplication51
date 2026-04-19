@@ -14,6 +14,7 @@ private:
 public:
 	second() {
 		cout << "Hi iamghffdgfghdfghdaasd 2" << endl;
+		cout << "what is wrong with this code" << endl;
 	}
 };
 int main() {
