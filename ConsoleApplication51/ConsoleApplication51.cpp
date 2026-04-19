@@ -13,7 +13,7 @@ private:
 	int y;
 public:
 	second() {
-		cout << "Hi iamghffdgfghdfgh 2" << endl;
+		cout << "Hi iamghffdgfghdfghdaasd 2" << endl;
 	}
 };
 int main() {
